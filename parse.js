@@ -1,7 +1,7 @@
 const readline = require('readline')
 const fs = require('fs')
 
-const find = ['ле', 'le', 'лел', 'lel', 'лол', 'lol', 'кек', 'kek', 'лек', 'lek']
+const find = ['ле', 'le', 'лел', 'lel', 'лол', 'lol', 'кек', 'kek', 'лек', 'lek', 'kjk']
 
 const ids = []
 let lastid = null
